@@ -1,0 +1,5 @@
+comand_file = comand.txt
+log_boundary = log_boundary.txt
+log_control = log_control.txt
+time = 0
+data = 0
