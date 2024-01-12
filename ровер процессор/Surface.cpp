@@ -44,7 +44,7 @@ void Surface::random_generating(int c_b, int c_s, int c_l) {
 }
 
 void Surface::calculate() {
-	int k;
+	unsigned int k;
 	double h;
 	ofstream file("Surface.txt");
 	for (int i = 0; i < 120; i++) {
